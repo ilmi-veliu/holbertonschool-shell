@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chgrp école helo
+chgrp school hello
