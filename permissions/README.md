@@ -1,0 +1,1 @@
+debut the shell permission
