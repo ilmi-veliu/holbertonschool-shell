@@ -1,2 +1,2 @@
 #!/bin/bash
-mkir -m chmod 751 my_dir
+mkdir -m chmod 751 my_dir
