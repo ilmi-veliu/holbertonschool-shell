@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1q log* | wc -l
+echo $PATH | tr -s ":" "\n" | wc -l
